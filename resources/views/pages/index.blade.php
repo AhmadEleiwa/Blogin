@@ -4,8 +4,9 @@
 {{-- HERO SECTION --}}
 <div class="hero-img flex flex-col items-center justify-center">
     <h1 class="text-gray-100 text-5xl uppercase font-bold pb-10">Welcome to my blog</h1>
-    <a class="bg-gray-100 text-xl text-gray-700 px-5 py-4 uppercase rounded-lg hover:bg-transparent hover:text-gray-100 hover:border-gray-100 border transition duration-100"
+    <a class="bg-gray-100 text-lg text-gray-700 px-5 py-4 uppercase rounded-lg hover:bg-transparent hover:text-gray-100 hover:border-gray-100 border transition duration-100"
         href="/">Start Reading</a>
+
 </div>
 
 {{-- Post --}}
@@ -19,7 +20,9 @@
             ham. On unaffected resolution on considered of. No thought me husband or colonel forming effects. End
             sitting shewing who saw besides son musical adapted. Contrasted interested eat alteration pianoforte
             sympathize was.</p>
-        <a href="/" class="bg-gray-700 text-gray-100 px-5 py-4 uppercase rounded place-self-start">Read more</a>
+        <a href="/"
+            class="bg-gray-700 text-gray-100 px-5 py-4 uppercase rounded place-self-start hover:bg-gray-500 transistion-all duration-100">Read
+            more</a>
     </div>
 </div>
 
