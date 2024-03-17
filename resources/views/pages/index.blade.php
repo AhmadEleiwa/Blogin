@@ -21,14 +21,14 @@
             sitting shewing who saw besides son musical adapted. Contrasted interested eat alteration pianoforte
             sympathize was.</p>
         <a href="/"
-            class="bg-gray-700 text-gray-100 px-5 py-4 uppercase rounded place-self-start hover:bg-gray-500 transistion-all duration-100">Read
+            class="bg-gray-700 text-xs text-gray-100 px-5 py-4 uppercase rounded place-self-start hover:bg-gray-500 transistion-all duration-100">Read
             more</a>
     </div>
 </div>
 
 {{-- Blog Categories --}}
 
-<div class="text-center p-15 bg-green-500 text-gray-100">
+<div class="text-center p-15 bg-gray-700 text-gray-100">
     <h2 class="text-2xl">Blog Categories</h2>
     <div class="container mx-auto pt-10 sm:grid grid-cols-4">
         <span class="font-bold text-xl py-3">UX Desgin</span>
@@ -53,7 +53,7 @@
 
 </div>
 <div class="sm:grid grid-cols-2 mx-auto w-4/5">
-    <div class="flex bg-gray-700 text-gray-100 pt-10">
+    <div class="flex bg-green-600 text-gray-100 pt-10">
         <div class="block m-auto pt-4 pb-15 w-4/5">
             <ul class="md:flex text-xs gap-2">
                 <li
